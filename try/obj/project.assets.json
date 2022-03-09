@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiago\\workspace\\dio-desafios\\Projetos\\Projetos.csproj",
-      "projectName": "Projetos",
-      "projectPath": "C:\\Users\\Tiago\\workspace\\dio-desafios\\Projetos\\Projetos.csproj",
+      "projectUniqueName": "C:\\Users\\Tiago\\workspace\\dio-desafios\\try\\try.csproj",
+      "projectName": "try",
+      "projectPath": "C:\\Users\\Tiago\\workspace\\dio-desafios\\try\\try.csproj",
       "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiago\\workspace\\dio-desafios\\Projetos\\obj\\",
+      "outputPath": "C:\\Users\\Tiago\\workspace\\dio-desafios\\try\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
